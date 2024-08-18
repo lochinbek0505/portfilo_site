@@ -28,15 +28,10 @@ List<ProjectUtils> hobbyProjectUtils = [
         'https://play.google.com/store/apps/details?id=com.shohatech.eduza',
   ),
   ProjectUtils(
-    image: 'assets/projects/02.png',
-    title: 'English Dictionary App',
-    subtitle:
-        'This is a dictionary application for English learners to easily look up word definitions.',
-    androidLink:
-        'https://play.google.com/store/apps/details?id=com.shohatech.eduza_eng_dictionary',
-    iosLink:
-        "https://apps.apple.com/us/app/eduza-english-dictionary/id6443770339",
-  ),
+      image: 'assets/menu.png',
+      title: 'Restouran menu site',
+      subtitle: 'This is a restouran menu site for kafe or restouran.',
+      webLink: "https://restourantbooking.web.app"),
   ProjectUtils(
       image: 'assets/projects/03.png',
       title: 'Pocket Dictionary',

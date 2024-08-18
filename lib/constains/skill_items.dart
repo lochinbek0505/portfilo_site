@@ -19,6 +19,10 @@ const List<Map> platformItems = [
 
 const List<Map> skillItems = [
   {
+    "img": "assets/android.png",
+    "title": "Android",
+  },
+  {
     "img": "assets/flutter.png",
     "title": "Flutter",
   },
